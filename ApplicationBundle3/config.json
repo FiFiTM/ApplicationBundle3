@@ -1,0 +1,6 @@
+{
+    "numberOfImagesToShow": 2,
+    "imagesNames": ["image1", "image2", "image3"],
+    "layoutStyle": "grid",
+    "spacing": 10
+}
