@@ -1,6 +1,6 @@
 {
     "numberOfImagesToShow": 2,
     "imageNames": ["image1", "image2", "image3"],
-    "layoutStyle": "grid",
+    "layoutStyle": "vertical",
     "spacing": 10
 }
